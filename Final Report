@@ -1,0 +1,25 @@
+Online Retail Sales Data Analysis
+
+Objective:
+To analyze online retail sales data through data cleaning, revenue trends, and profit margin insights using Microsoft Excel
+
+Insights
+The South and East regions generated the highest total revenue, indicating strong customer bases.
+Several products such as Hair Dryer, Resistance Bands, and Electric Kettle had a Profit Margin above ₹5000, marking them as high-profit items.
+No missing or dirty data — shows good data quality from the source.
+
+Outcomes
+Successfully used VLOOKUP and INDEX/MATCH to retrieve order-specific information.
+Created a PivotTable to summarize revenue by region and used Conditional Formatting to highlight top performers.
+Identified the top 3 most profitable products, useful for marketing or stock prioritization.
+Built a revenue trend line chart, providing clear visual insights
+
+ Trend
+Revenue remained low to moderate during the first 20 days.
+A sharp increase in revenue after Day 24, peaking on Day 30, suggests end-of-month purchasing behavior or sales campaigns.
+Some zero-revenue days suggest days with no orders or operational breaks.
+
+Prediction
+If current patterns continue, end-of-month sales will remain peak periods — offering a chance to launch discounts or ads.
+Focused inventory planning around top-performing products and regions can improve profitability.
+Products with consistently high profit margins can be targeted for up-selling or bundling strategies
